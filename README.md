@@ -36,7 +36,7 @@
 ### computer screen
 ![screenshot](./img/ss.jpeg)
 ### mobile screen
-![screenshot](./img/mss.jpeg)
+![screenshot](./img/Mss.jpeg)
 
 
 
